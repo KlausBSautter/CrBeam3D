@@ -1,3 +1,5 @@
+# from "Co-rotational beam elements in instability problems - Jean-Marc Battini"
+
 import numpy as np
 from copy import deepcopy as dc
 import matplotlib.pyplot as plt
